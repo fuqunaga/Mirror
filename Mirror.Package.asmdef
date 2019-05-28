@@ -1,6 +1,8 @@
 {
-    "name": "MirrorRuntime",
-    "references": [],
+    "name": "Mirror.Package",
+    "references": [
+        "GUID:30817c1a0e6d646d99c048fc403f5979"
+    ],
     "optionalUnityReferences": [],
     "includePlatforms": [],
     "excludePlatforms": [],
